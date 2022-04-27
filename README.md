@@ -7,7 +7,7 @@
 - [법정동룩업테이블참조](https://github.com/inhyeokJeon/field_practice/tree/main/법정동룩업테이블)
 
 ### 소상공인_상가업소_정보
-- [소상공인_상가업소_정보](https://github.com/inhyeokJeon/field_practice/tree/main/국토교통부API)
+- [소상공인_상가업소_정보](https://github.com/inhyeokJeon/field_practice/tree/main/소상공인_상가업소_정보)
 
 ### 속성조회
 - [주택정보_속성_조회](https://github.com/inhyeokJeon/field_practice/tree/main/속성조회)
